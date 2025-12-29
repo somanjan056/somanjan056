@@ -1,5 +1,5 @@
-# 💫 About Me:
-💼 About Me<br>🛠 I’m currently working on data analytics and machine learning projects that turn raw data into actionable insights.<br>👯 I’m looking to collaborate on real-world analytics challenges, especially in sports, healthcare, and business domains.<br>🤝 I’m looking for help with advanced model deployment and optimizing Power BI dashboards.<br>🌱 I’m currently learning deep learning techniques and refining my skills in R and Tableau.<br>💬 Ask me about Python, SQL, Power BI, and how to build clean, insight-rich dashboards.<br>⚡ Fun fact: I love solving logic puzzles and technical quizzes—they keep my brain sharp and my curiosity alive!<br><br>🔗 LinkedIn | 💻 GitHub
+# 💫 About Me 💼:
+🛠 I’m currently working on data analytics and machine learning projects that turn raw data into actionable insights.<br>👯 I’m looking to collaborate on real-world analytics challenges, especially in sports, healthcare, and business domains.<br>🤝 I’m looking for help with advanced model deployment and optimizing Power BI dashboards.<br>🌱 I’m currently learning deep learning techniques and refining my skills in R and Tableau.<br>💬 Ask me about Python, SQL, Power BI, and how to build clean, insight-rich dashboards.<br>⚡ Fun fact: I love solving logic puzzles and technical quizzes—they keep my brain sharp and my curiosity alive!<br><br>🔗 LinkedIn | 💻 GitHub
 
 
 ## 🌐 Socials:
